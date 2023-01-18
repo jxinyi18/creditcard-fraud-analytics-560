@@ -5,8 +5,8 @@
 <br>
 <b> Documents included (Updating): </b>
 <ol>
-  <li> 01. Data Quality Report (DQR) </li>
-  <li> 01a. Data Quality Report Codes </li>
+  <li> Data Quality Report (DQR) </li>
+  <li> Data Quality Report Codes </li>
 </ol>
 
 
