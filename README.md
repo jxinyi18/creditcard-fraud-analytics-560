@@ -14,7 +14,7 @@
 <b> Goal </b>: Provide initial glean of data characteristics within dataset provided.
 <br>
 <b> Skills </b>: Data Wrangling and Data Visualization
-<br> Software & Packages used </b>: Python (Matplotlib, Pandas, Numpy, Datetime) on Google Collab/Jupyter Notebook.
+<b> Software & Packages used </b>: Python (Matplotlib, Pandas, Numpy, Datetime) on Google Collab/Jupyter Notebook.
 <br>
 
 # Updating
