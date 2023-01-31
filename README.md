@@ -10,8 +10,10 @@
   <li> Data Quality Report Codes </li>
   </ol>
   <li> Making Variables Codes </li>
-  <li> a. Making Variables Codes PT2 (broken into two parts to accomodate huge file size (1billion rows) </li>
-  <li> b. Variables Summary Table and Business Problem Statement </li>
+  <ol type="a">
+  <li> Making Variables Codes PT2 (broken into two parts to accomodate huge file size (1billion rows) </li>
+  <li> Variables Summary Table and Business Problem Statement </li>
+   </ol>
 </ol>
 
 
