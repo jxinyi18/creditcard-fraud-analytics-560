@@ -6,7 +6,10 @@
 <b> Documents included (Updating): </b>
 <ol>
   <li> Data Quality Report (DQR) </li>
-  <li> Data Quality Report Codes </li>
+  <li> a. Data Quality Report Codes </li>
+  <li> Making Variables Codes </li>
+  <li> a. Making Variables Codes PT2 (broken into two parts to accomodate huge file size (1billion rows) </li>
+  <li> b. Variables Summary Table and Business Problem Statement </li>
 </ol>
 
 
@@ -18,4 +21,10 @@
 <b> Software & Packages used </b>: Python (Matplotlib, Pandas, Numpy, Datetime) on Google Collab/Jupyter Notebook.
 <br>
 
-# Updating
+# Making Variables & Variables Summary
+<b> Goal </b>: Making variables from original fields to quantify fraud likelihood. Created linking variables from original fields into unique values (for example: name + address, ssn + dob) to further identify individuals. 
+<br>
+<b> Skills </b>: Building Variables and Identifying Business Problems
+<br>
+<b> Software & Packages used </b>: Python (Matplotlib, Pandas, Numpy, Datetime, Scipy, Sklearn) on Jupyter Notebook.
+<br>
